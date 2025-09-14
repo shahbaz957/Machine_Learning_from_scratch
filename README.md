@@ -65,7 +65,7 @@ Each `.ipynb` notebook demonstrates one algorithm or ML Technique:
 
 --> Clone this repository:  
    ```bash
-   git clone https://github.com/your-username/Machine_Learning_from_scratch.git
+   git clone https://github.com/shahbaz957/Machine_Learning_from_scratch.git
    cd Machine_Learning_from_scratch
    ```
 --> Install Dependencies
